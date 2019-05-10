@@ -36,3 +36,6 @@ my_str2="""hello the world
 tehran is a great city
 but it also very crowded """
 print(my_str2)
+
+rev1=my_list[::-1]
+print(rev1)
