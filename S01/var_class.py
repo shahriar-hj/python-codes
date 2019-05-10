@@ -1,4 +1,4 @@
-# This file contains different variable types
+# This file contains different variable types which talk about in class
 
 my_int=102
 print(my_int)
