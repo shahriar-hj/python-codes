@@ -39,3 +39,8 @@ print(my_str2)
 
 rev1=my_list[::-1]
 print(rev1)
+
+track{"name":"papercut",
+      "singer":"lininpark",
+      "Albume":"Hybirdtheory",
+      "year":"2000"}
