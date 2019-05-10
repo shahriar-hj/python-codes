@@ -31,3 +31,8 @@ my_Tuple=(7,4,3,8,"what?",102.3,True,False)
 print(my_Tuple)
 print(type(my_Tuple))
 print(my_Tuple[2])
+
+my_str2="""hello the world 
+tehran is a great city
+but it also very crowded """
+print(my_str2)
