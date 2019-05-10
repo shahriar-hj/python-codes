@@ -1,4 +1,4 @@
-#this file contains different variable types
+# This file contains different variable types
 
 my_int=102
 print(my_int)
@@ -26,3 +26,8 @@ my_list=[1,2,4,"what?",102.3,True,False]
 print(my_list)
 print(type(my_list))
 print(my_list[3])
+
+my_Tuple=(7,4,3,8,"what?",102.3,True,False)
+print(my_Tuple)
+print(type(my_Tuple))
+print(my_Tuple[2])
